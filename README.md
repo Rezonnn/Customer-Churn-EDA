@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction – ML Portfolio Project
 
-This is a **Python machine learning / data science project** built to be shared on GitHub.
+This is a **Python machine learning / data science project**.
 
 It includes:
 
@@ -71,20 +71,3 @@ customer_churn_ml_project/
 ├─ requirements.txt          # Dependencies
 └─ README.md                 # Project description (this file)
 ```
-
----
-
-## 🌟 Why this is portfolio-ready
-
-This project demonstrates that you can:
-
-- Set up a reproducible **Python data science environment**
-- Perform **EDA** and create clear visualizations
-- Train and compare **ML models**
-- Communicate results with plots and structured analysis
-
-You can easily extend it later with:
-- ROC curves / AUC metrics
-- Cross-validation
-- Hyperparameter tuning
-- Saving models with `joblib`
